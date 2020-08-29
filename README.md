@@ -5,5 +5,5 @@ Problem Soving
 Competitive Programming
 
 ###
-Problem Solving
+Amazon Interview Preparation
 
